@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\obj\Debug\Key-pad-with-attempts.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\obj\Debug\Key-pad-with-attempts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\bin\Debug\Key-pad-with-attempts.exe.config
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\bin\Debug\Key-pad-with-attempts.exe
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\bin\Debug\Key-pad-with-attempts.pdb
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\obj\Debug\Key-pad-with-attempts.exe
+C:\Users\Owner\Desktop\Key.pad.with.attempts\Key-pad-with-attempts\Key-pad-with-attempts\obj\Debug\Key-pad-with-attempts.pdb
